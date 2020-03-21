@@ -1,1 +1,13 @@
-
+{
+  "ec2": [
+    {
+            "id": "sadasd-fwefwef-werwert34-23rfw",
+            "name": "Logstash VM",
+            "operativeSystem": "Ubuntu 18.10",
+            "type": "t2.large",
+            "privateIP": "10.0.0.1",
+            "publicIP": "35.45.234.54",
+            "status": "ON"
+    }
+  ]
+}
